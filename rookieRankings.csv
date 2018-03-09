@@ -1,64 +1,29 @@
-Rank,Name,Pos,Team,Age,Height,Weight,DrYear,Eligible,Dan M,Jeff H,Rob W,Ryan M,Steve G,Travis M,AVG
-1,Saquon Barkley,RB,Penn State,20,5'11",230,-,2018,1,1,1,1,1,1,1.00
-2,Derrius Guice,RB,LSU,20,5'11",215,-,2018,2,2,2,2,2,2,2.00
-3,Courtland Sutton,WR,SMU,22,6'3",220,-,2018,5,4,6,3,10,4,5.33
-4,Sony Michel,RB,Georgia,22,5'11",215,-,2018,3,7,7,4,6,8,5.83
-5,Nick Chubb,RB,Georgia,22,5'10",230,-,2018,6,9,4,8,4,7,6.33
-6,James Washington,WR,Oklahoma State,21,6'0",205,-,2018,10,5,5,5,11,3,6.50
-7,Calvin Ridley,WR,Alabama,23,6'1",190,-,2018,4,3,12,11,3,6,6.50
-8,Ronald Jones II,RB,USC,20,6'0",210,-,2018,7,6,8,7,9,5,7.00
-9,Christian Kirk,WR,Texas A&M,21,5'11",200,-,2018,15,8,16,10,5,13,11.17
-10,Rashaad Penny,RB,San Diego State,22,5'10",220,-,2018,8,10,3,12,26,9,11.33
-11,Kerryon Johnson,RB,Auburn,20,5'11",215,-,2018,14,15,9,13,23,11,14.17
-12,DJ  Moore,WR,Maryland,20,5'10",215,-,2018,11,28,13,9,14,12,14.50
-13,Equanimeous St. Brown,WR,Notre Dame,21,6'4",205,-,2018,9,12,37,6,8,18,15.00
-14,Auden Tate,WR,Florida State,21,6'4",225,-,2018,12,11,22,15,21,10,15.17
-15,Michael Gallup,WR,Colorado State,21,6'1",200,-,2018,16,24,11,17,7,17,15.33
-16,Deon Cain,WR,Clemson,21,6'1",210,-,2018,13,13,30,16,16,23,18.50
-17,Mark Walton,RB,Miami (Florida),20,5'9",205,-,2018,20,27,10,18,22,22,19.83
-18,Josh Adams,RB,Notre Dame,21,6'1",225,-,2018,17,14,14,14,28,34,20.17
-19,John Kelly,RB,Tennessee,21,5'9",215,-,2018,21,35,18,19,13,16,20.33
-20,Josh Rosen,QB,UCLA,20,6'3",220,-,2018,19,16,19,31,19,19,20.50
-21,Royce Freeman,RB,Oregon,21,5'10",235,-,2018,23,19,15,30,25,21,22.17
-22,Kalen Ballage,RB,Arizona State,22,6'2",230,-,2018,22,20,26,20,24,28,23.33
-23,Mark Andrews,TE,Oklahoma,22,6'6",255,-,2018,26,30,20,28,27,14,24.17
-24,Akrum Wadley,RB,Iowa,22,5'10",195,-,2018,18,29,29,29,12,37,25.67
-25,Sam Darnold,QB,USC,20,6'3",230,-,2018,24,17,23,35,35,26,26.67
-26,Baker Mayfield,QB,Oklahoma,22,6'0",220,-,2018,32,21,17,38,29,29,27.67
-27,Lamar Jackson,QB,Louisville,21,6'2",215,-,2018,31,23,21,36,31,25,27.83
-28,Anthony  Miller,WR,Memphis,23,5'11",190,-,2018,38,43,33,26,15,15,28.33
-29,Richie James,WR,Middle Tennessee State,22,5'9",180,-,2018,46,44,24,33,18,20,30.83
-30,Simmie Cobbs,WR,Indiana,22,6'3",220,-,2018,27,41,36,24,40,24,32.00
-31,Mike Gesicki,TE,Penn State,22,6'5",255,-,2018,25,34,46,27,30,33,32.50
-32,Tre'Quan Smith,WR,UCF,22,6'1",210,-,2018,28,39,28,22,48,42,34.50
-33,Dante Pettis,WR,Washington,22,6'0",195,-,2018,36,40,40,23,41,27,34.50
-34,Allen Lazard,WR,Iowa State,22,6'4",225,-,2018,43,25,41,45,20,36,35.00
-35,Justin  Jackson,RB,Northwestern,21,5'11",195,-,2018,29,36,34,40,42,30,35.17
-36,Deontay Burnett,WR,USC,20,5'11",175,-,,37,42,38,25,49,40,38.50
-37,Marcell Ateman,WR,Oklahoma State,23,6'3",220,-,2018,41,18,49,32,50,47,39.50
-38,Bo Scarbrough,RB,Alabama,23,6'1",235,-,2018,33,38,35,43,44,45,39.67
-39,Troy  Fumagalli,TE,Wisconsin,22,6'5",250,-,2018,34,,39,,34,31,40.00
-40,Jaleel Scott,WR,New Mexico State,22,6'5",215,-,2018,42,45,25,34,47,48,40.17
-41,Jordan Lasley,WR,UCLA,21,6'0",210,-,2018,35,32,,21,,,40.17
-42,Dallas Goedert,TE,South Dakota State,23,6'3",255,-,2018,39,,,37,32,32,40.33
-43,Josh Allen,QB,Wyoming,21,6'5",235,-,2018,30,22,,,,44,41.50
-44,Nyheim Hines,RB,North Carolina State,21,5'8",200,-,2018,40,37,31,41,,50,41.67
-45,Cedrick Wilson,WR,Boise State,22,6'2",205,-,2018,,46,27,39,37,,41.83
-46,DJ Chark,WR,LSU,21,6'3",200,-,2018,,26,,48,45,41,43.67
-47,Mason Rudolph,QB,Oklahoma State,22,6'4",230,-,2018,47,31,44,,46,43,43.67
-48,Jaylen Samuels,RB,North Carolina State,22,5'11",225,-,2018,48,50,,47,38,35,44.83
-49,Korey Robertson,WR,Southern Mississippi,22,6'1",210,-,2018,,,,,17,,45.33
-50,Ito Smith,RB,Southern Mississippi,22,5'9",195,-,2018,,,32,,43,,46.50
-51,Kamryn Pettway,RB,Auburn,21,6'0",235,-,2018,44,49,47,42,,,47.33
-52,Jake  Wieneke,WR,South Dakota State,23,6'3",215,-,2018,45,,,49,,39,47.67
-53,Luke Falk,QB,Washington State,23,6'3",225,-,2018,50,33,,,,,47.83
-54,J'Mon Moore,WR,Missouri,22,6'2",205,-,2018,,,,,33,,48.00
-55,Kyle Hicks,RB,TCU,23,5'10",210,-,2018,,,45,,39,,48.00
-56,Braxton Berrios,WR,Miami (Florida),22,5'9",186,-,2018,,,,,36,,48.50
-57,Darren Carrington,WR,Utah,23,6'1",205,-,2018,,,,,,38,48.83
-58,Jordan Villamin,WR,Oregon State,22,6'5",220,-,2018,49,47,,44,,,48.83
-59,Antonio Callaway,WR,Florida,21,5'10",195,-,2018,,,42,50,,49,49.00
-60,Jester Weah,WR,Pittsburgh,22,6'3",215,-,2018,,48,,46,,,49.67
-61,Roc Thomas,RB,Jacksonville State,-,5'11",193,-,2018,,,43,,,,49.67
-62,Hayden Hurst,TE,South Carolina,24,6'4",250,-,2018,,,50,,,46,50.00
-63,Lavon Coleman,RB,Washington,-,5'11",225,-,2018,,,48,,,,50.50
+Rank,Name,Position
+1,Josh Rosen,QB
+2,Baker Mayfield,QB
+3,Lamar Jackson,QB
+4,Sam Darnold,QB
+5,Josh Allen,QB
+1,Saquon Barkley,RB
+2,Derrius Guice,RB
+3,Nick Chubb,RB
+4,Sony Michel,RB
+5,Ronald Jones II,RB
+6,Rashaad Penny,RB
+7,Royce Freeman,RB
+8,Kerryon Johnson,RB
+9,John Kelly ,RB
+10,Kalen Ballage,RB
+1,Mike Gesicki,TE
+2,Mark Andrews,TE
+3,Dallas Goedert,TE
+1,DJ Moore,WR
+2,Courtland Sutton,WR
+3,James Washington,WR
+4,Calvin Ridley,WR
+5,Christian Kirk,WR
+6,Equanimeous St. Brown,WR
+7,Michael Gallup,WR
+8,DJ Chark,WR
+9,Anthony Miller,WR
+10,Deon Cain ,WR
