@@ -1,29 +1,49 @@
-Rank,Name,Position,,(Updated: 3-12-18)
-1,Josh Rosen,QB,,
-2,Baker Mayfield,QB,,
-3,Lamar Jackson,QB,,
-4,Sam Darnold,QB,,
-5,Josh Allen,QB,,
-1,Saquon Barkley,RB,,
-2,Derrius Guice,RB,,
-3,Nick Chubb,RB,,
-4,Sony Michel,RB,,
-5,Ronald Jones II,RB,,
-6,Rashaad Penny,RB,,
-7,Royce Freeman,RB,,
-8,Kerryon Johnson,RB,,
-9,John Kelly ,RB,,
-10,Kalen Ballage,RB,,
-1,Mike Gesicki,TE,,
-2,Mark Andrews,TE,,
-3,Dallas Goedert,TE,,
-1,DJ Moore,WR,,
-2,Courtland Sutton,WR,,
-3,James Washington,WR,,
-4,Calvin Ridley,WR,,
-5,Christian Kirk,WR,,
-6,Equanimeous St. Brown,WR,,
-7,Michael Gallup,WR,,
-8,DJ Chark,WR,,
-9,Anthony Miller,WR,,
-10,Deon Cain ,WR,,
+Rank,Rookies,Team,Pos
+1,Saquon Barkley,NYG,RB
+2,Rashaad Penny,SEA,RB
+3,Nick Chubb,CLE,RB
+4,Derrius Guice,WAS,RB
+5,Sony Michel,NE,RB
+6,Royce Freeman,DEN,RB
+7,D.J. Moore,CAR,WR
+8,Calvin Ridley,ATL,WR
+9,Kerryon Johnson,DET,RB
+10,Ronald Jones II,TB,RB
+11,Courtland Sutton,DEN,WR
+12,Christian Kirk,ARI,WR
+13,Michael Gallup,DAL,WR
+14,Anthony Miller,CHI,WR
+15,Dante Pettis,SF,WR
+16,Tre'Quan Smith,NO,WR
+17,James Washington,PIT,WR
+18,Mike Gesicki,MIA,TE
+19,Baker Mayfield,CLE,QB
+20,Lamar Jackson,BAL,QB
+21,Josh Rosen,ARI,QB
+22,Mark Andrews,BAL,TE
+23,Nyheim Hines,IND,RB
+24,D.J. Chark,JAC,WR
+25,Dallas Goedert,PHI,TE
+26,Kalen Ballage,MIA,RB
+27,Sam Darnold,NYJ,QB
+28,Antonio Callaway,CLE,WR
+29,J'Mon Moore,GB,WR
+30,Chase Edmonds,ARI,RB
+31,John Kelly,LAR,RB
+32,Jordan Wilkins,IND,RB
+33,Hayden Hurst,BAL,TE
+34,Keke Coutee,HOU,WR
+35,Mark Walton,CIN,RB
+36,DaeSean Hamilton,DEN,WR
+37,Equanimeous St. Brown,GB,WR
+38,Bo Scarbrough,DAL,RB
+39,Deon Cain,IND,WR
+40,Troy Fumagalli,DEN,TE
+41,Justin Jackson,LAC,RB
+42,Jordan Lasley,BAL,WR
+43,Ian Thomas,CAR,TE
+44,Ito Smith,ATL,RB
+45,Josh Adams,PHI,RB
+46,Jaylen Samuels,PIT,TE
+47,Josh Allen,BUF,QB
+48,Auden Tate,CIN,WR
